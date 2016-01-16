@@ -1,0 +1,6 @@
+c:\users\yvaine\documents\visual studio 2015\Projects\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe.config
+c:\users\yvaine\documents\visual studio 2015\Projects\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.csprojResolveAssemblyReference.cache
+c:\users\yvaine\documents\visual studio 2015\Projects\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.exe
+c:\users\yvaine\documents\visual studio 2015\Projects\CountdownTimer\CountdownTimer\bin\Debug\CountdownTimer.pdb
+c:\users\yvaine\documents\visual studio 2015\Projects\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.exe
+c:\users\yvaine\documents\visual studio 2015\Projects\CountdownTimer\CountdownTimer\obj\Debug\CountdownTimer.pdb
